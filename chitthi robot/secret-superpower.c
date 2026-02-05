@@ -11,6 +11,7 @@ void superPower(int level){
         printf("Energy too low for flight");
     }
     else
+
     printf("Invalid  Energy Level");
     
 
